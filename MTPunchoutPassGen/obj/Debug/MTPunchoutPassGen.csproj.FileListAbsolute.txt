@@ -1,0 +1,9 @@
+C:\workspace_sandbox\MTPunchoutPassGen\MTPunchoutPassGen\bin\Debug\MTPunchoutPassGen.exe.config
+C:\workspace_sandbox\MTPunchoutPassGen\MTPunchoutPassGen\bin\Debug\MTPunchoutPassGen.exe
+C:\workspace_sandbox\MTPunchoutPassGen\MTPunchoutPassGen\bin\Debug\MTPunchoutPassGen.pdb
+C:\workspace_sandbox\MTPunchoutPassGen\MTPunchoutPassGen\obj\Debug\MTPunchoutPassGen.FormMTPunchoutPassGen.resources
+C:\workspace_sandbox\MTPunchoutPassGen\MTPunchoutPassGen\obj\Debug\MTPunchoutPassGen.Properties.Resources.resources
+C:\workspace_sandbox\MTPunchoutPassGen\MTPunchoutPassGen\obj\Debug\MTPunchoutPassGen.csproj.GenerateResource.cache
+C:\workspace_sandbox\MTPunchoutPassGen\MTPunchoutPassGen\obj\Debug\MTPunchoutPassGen.csproj.CoreCompileInputs.cache
+C:\workspace_sandbox\MTPunchoutPassGen\MTPunchoutPassGen\obj\Debug\MTPunchoutPassGen.exe
+C:\workspace_sandbox\MTPunchoutPassGen\MTPunchoutPassGen\obj\Debug\MTPunchoutPassGen.pdb
